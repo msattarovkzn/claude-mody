@@ -1,0 +1,10 @@
+{
+  "name": "ctx",
+  "version": "1.0.0",
+  "description": "Шкалы контекста, лимитов 5 ч и недели и таймер кэша под полем ввода",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Никита Велс",
+    "url": "https://t.me/+7CvS3mKSyFBlNmUx"
+  }
+}
